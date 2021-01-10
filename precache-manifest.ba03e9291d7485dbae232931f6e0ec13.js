@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af9d4ed41ec307c4704e0c3015bf6e73",
+    "revision": "b16cad8d86a3ce21445142d169e0f425",
     "url": "/dappfolio/index.html"
   },
   {
-    "revision": "c0b923125e4c1b75fdfd",
+    "revision": "82b86b3962b55ac67841",
     "url": "/dappfolio/static/css/main.4300b6f2.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dappfolio/static/js/2.1f4e5c99.chunk.js"
   },
   {
-    "revision": "c0b923125e4c1b75fdfd",
-    "url": "/dappfolio/static/js/main.50f73a5f.chunk.js"
+    "revision": "82b86b3962b55ac67841",
+    "url": "/dappfolio/static/js/main.8af04351.chunk.js"
   },
   {
     "revision": "7fcb818ec6903f71ee7d",
