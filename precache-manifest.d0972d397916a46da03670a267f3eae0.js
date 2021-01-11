@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "379652e73d4e624a4ecfb8cf36e2f65e",
+    "revision": "0b2a5d612e112a7b8c6d6891be0dff7f",
     "url": "/dappfolio/index.html"
   },
   {
