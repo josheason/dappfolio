@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dappfolio/static/css/main.dedc8cbd.chunk.css",
-    "main.js": "/dappfolio/static/js/main.f4390dde.chunk.js",
-    "main.js.map": "/dappfolio/static/js/main.f4390dde.chunk.js.map",
+    "main.js": "/dappfolio/static/js/main.58addb78.chunk.js",
+    "main.js.map": "/dappfolio/static/js/main.58addb78.chunk.js.map",
     "runtime-main.js": "/dappfolio/static/js/runtime-main.9404c3f6.js",
     "runtime-main.js.map": "/dappfolio/static/js/runtime-main.9404c3f6.js.map",
     "static/js/2.adfab7bb.chunk.js": "/dappfolio/static/js/2.adfab7bb.chunk.js",
     "static/js/2.adfab7bb.chunk.js.map": "/dappfolio/static/js/2.adfab7bb.chunk.js.map",
     "index.html": "/dappfolio/index.html",
-    "precache-manifest.6dbcf65c508bdba43d8c1450a3ca9fa2.js": "/dappfolio/precache-manifest.6dbcf65c508bdba43d8c1450a3ca9fa2.js",
+    "precache-manifest.d4a17337a95e8ac55f14f9264deb6d52.js": "/dappfolio/precache-manifest.d4a17337a95e8ac55f14f9264deb6d52.js",
     "service-worker.js": "/dappfolio/service-worker.js",
     "static/css/main.dedc8cbd.chunk.css.map": "/dappfolio/static/css/main.dedc8cbd.chunk.css.map",
     "static/media/connected1.png": "/dappfolio/static/media/connected1.d75a301a.png",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.9404c3f6.js",
     "static/js/2.adfab7bb.chunk.js",
     "static/css/main.dedc8cbd.chunk.css",
-    "static/js/main.f4390dde.chunk.js"
+    "static/js/main.58addb78.chunk.js"
   ]
 }
